@@ -1,0 +1,22 @@
+Questions: 
+1) 21 is a prime number
+2) Alaska is  the largest US state
+3) Mercury is the first planet from the sun
+4) Rio de Janeiro is the capital of Brazil
+5) Yorkshire has a higher population than Wales
+			 	 	 	 	 
+	 	 	 	 	 Q1 	 Q2 	 Q3 	 Q4 	 Q5
+Total number of times answered:	 2 	3 	3	2	2
+Total number of correct answers:	 1 	2 	2	1	1
+% of correct answers:	 	 50.0 	66.67 	66.67	50.0	50.0
+No of times question given up on:	 0 	0 	1	0	0
+
+
+Highlights
+Question(s) with highest % correct answers: ['Q2', 'Q3']
+Question(s) with lowest % correct answers: ['Q1', 'Q4', 'Q5']
+Question(s) most often given up on: ['Q3']
+Number of times quiz attempted: 3
+Number of times quiz completed: 2
+
+
